@@ -2,10 +2,7 @@
  e.waitUntil(
    caches.open('radios').then(function(cache) {
      return cache.addAll([
-       '/radiosunnah/style.css',
-       '/radiosunnah/index.html',
-       '/radiosunnah/index.js',
-       'https://kesehatanhaji.com/jsku/manifest.json'
+       'https://webappradiosunnah.blogspot.com/2018/07/webapp.html'
      ]);   }) );});
 
  self.addEventListener('fetch', function(e) {
