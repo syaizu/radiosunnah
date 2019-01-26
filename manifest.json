@@ -1,0 +1,15 @@
+{
+  "name": "Radio Sunnah Lite",
+  "short_name": "Radio Sunnah Lite",
+  "description": "WebApp untuk mendengarkan Radio Sunnah Indonesia",
+  "lang": "en-US",
+  "start_url": "https://webappradiosunnah.blogspot.com/2018/07/webapp.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-tDVgPFXo0a0/W1br9mTUt8I/AAAAAAAABss/gYJ3s2nKAfUk5b8cmcfOHr-8xOgbkfxTQCLcBGAs/s1600/ic_launcher_round.png",
+      "sizes": "192x192",
+      "type": "png"
+    }
+  ]
+}
